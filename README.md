@@ -14,23 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Farnoosh 👋
+# Hi, I'm Fatemeh (Farnoosh) Hosseini 👋
 
-I'm a Master's student in **Artificial Intelligence** at **FAU**, currently working on my thesis on **anomaly detection in 3D CT images**. My coursework has given me a strong foundation in machine learning, deep learning, and computer vision and I'm looking ahead to **PhD positions** and roles at leading companies in the field.
+I'm a Master's student in **Artificial Intelligence** at **FAU Erlangen-Nürnberg**,
+writing my thesis at the Pattern Recognition Lab on **reconstruction-based anomaly
+detection with deep generative models** on large-scale 3D CT data. I'm applying for
+**fully funded PhD positions starting in 2027**.
 
 ## 🔭 Currently working on
-- My Master's thesis: **Anomaly Detection in CT Imaging**
 
-## 🧠 Areas of interest
-- Artificial Intelligence & Deep Learning
-- Anomaly detection & unsupervised/self-supervised learning
-- Medical imaging & AI applications in healthcare
-- Computer Vision (geometric estimation, feature encoding, recognition, detection)
-- Generative models (autoencoders, diffusion models, GANs)
-- Machine Learning research more broadly
+- Master's thesis: unsupervised anomaly detection on 3D CT volumes, moving through
+  a family of generative architectures (AE → VAE → VQ-VAE → diffusion models),
+  trained on HPC cluster
+<!-- - A from-scratch PyTorch implementation of denoising diffusion models (DDPM) -->
 
-## 🛠️ Tools & Technologies
-Python · Jupyter · OpenCV · scikit-learn · PyTorch · NumPy · PyCharm · Conda · Git/GitHub
+
+## 🧠 Research interests
+
+- Deep generative models (diffusion models, VAEs, VQ-VAEs)
+- Unsupervised anomaly detection & representation learning
+- 3D vision and volumetric data
+- Efficient deep learning
+
+## 🛠️ Tools
+
+Python · PyTorch · NumPy · OpenCV · scikit-learn · Slurm/HPC · Git · Conda
 
 ---
-⭐️ Feel free to explore my repositories, and reach out if you'd like to collaborate or discuss anything AI or Computer Vision related!
+
+⭐️ Feel free to explore my repositories, and reach out if you'd like to talk about
+generative models, anomaly detection, or PhD opportunities.
