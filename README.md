@@ -3,7 +3,7 @@
 I'm a Master's student in **Artificial Intelligence** at **FAU Erlangen-Nürnberg**,
 writing my thesis at the Pattern Recognition Lab on **reconstruction-based anomaly
 detection with deep generative models** on large-scale 3D CT data. I'm applying for
-**fully funded PhD positions starting in 2027**.
+**PhD positions starting in 2027**.
 
 ## 🔭 Currently working on
 
